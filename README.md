@@ -6,7 +6,11 @@ This project developed an earlier breadboard prototype into my first manufacture
 
 Arduino Uno, Embedded C/C++, KiCad, PCB Design, PWM ADC, and Hardware Debugging
 
-Status — Version 1 tested: The PCB was successfully designed, manufactured and assembled. The controls and several interfaces worked, while bring-up exposed three hardware issues to correct in Version 2: the fan-driver routing, RGB LED pin mapping and LM35 interface.
+Status — Version 1 tested: The PCB was successfully designed, manufactured and assembled. The controls and several interfaces worked, while bring-up exposed three hardware issues to correct in Version 2: the fan-driver routing, RGB LED pin mapping and LM35 interface
+
+[Powered assembled PCB](docs/images/hardware/pcb-powered-on.jpg)
+
+[Watch the Version 1 prototype demonstration] (https://github.com/marknkan/arduino-temperature-controlled-fan-pcb/releases/tag/v1.0)
 
 # Contents
 
@@ -19,6 +23,18 @@ Status — Version 1 tested: The PCB was successfully designed, manufactured and
 - Main pin assignments
 
 - PCB development
+
+### Schematic
+
+![KiCad schematic](docs/images/design/schematic.png)
+
+### PCB layout
+
+![PCB layout](docs/images/design/pcb-layout.png)
+
+### 3D render
+
+![PCB 3D render](docs/images/design/pcb-3d-front.png)
 
 - Firmware development
 
