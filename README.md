@@ -26,7 +26,7 @@ Status — Version 1 tested: The PCB was successfully designed, manufactured and
 
 ### Schematic
 
-![KiCad schematic](docs/images/design/schematic.png)
+![KiCad schematic] (hardware/kiCad/Practice Project.kicad_sch)
 
 ### PCB layout
 
